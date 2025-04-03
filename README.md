@@ -1,10 +1,11 @@
-# Développement d'un Système d'Exploitation sur NXP LPC5569  
+# Development of an Operating System on NXP LPC5569  
 
-J'ai dirigé le développement d'un **système d'exploitation embarqué** sur la carte **NXP LPC5569**, conçu pour la gestion des tâches et le contrôle des périphériques.  
+I led the development of an **embedded operating system** on the **NXP LPC5569** board, designed for task management and peripheral control.  
 
-## Fonctionnalités principales  
-- **Gestion des tâches** : Implémentation d'un ordonnanceur permettant l'exécution multitâche.  
-- **Contrôle des périphériques** : Gestion et commande de composants tels que les **LEDs**.  
-- **Communication UART** : Mise en place d'une interface de communication série pour l'échange de données.  
+## Main Features  
+- **Task Management**: Implementation of a scheduler enabling multitasking execution.  
+- **Peripheral Control**: Management and control of components such as **LEDs**.  
+- **UART Communication**: Establishment of a serial communication interface for data exchange.  
 
-Ce système optimise l'utilisation des ressources matérielles et facilite le développement d'applications embarquées sur la plateforme **LPC5569**.  
+This system optimizes hardware resource utilization and facilitates the development of embedded applications on the **LPC5569** platform.  
+
